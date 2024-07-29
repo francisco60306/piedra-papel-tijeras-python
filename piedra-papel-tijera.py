@@ -1,3 +1,6 @@
+#hacerlo lowercase
+#ingresar nombre en segunda solicitud
+#mas de un turno con bulce while
 nombre1= input("inserte nombre de jugador 1:")
 nombre2= input("inserte nombre de jugador 2:")
 jugador1 = input("hola jugador 1, que elegis? piedra,papel o tijera?: ")
